@@ -1,0 +1,14 @@
+name: wbwtlry
+version: '1.0-SNAPSHOT'
+main: com.amoe.wbwtlry.Wbwtlry
+api-version: '1.21'
+load: STARTUP
+authors: [ Amouren ]
+description: laiwantailaruiya
+commands:
+  wbwtlry:
+    description: 泰拉瑞亚提示指令
+    usage: /wbwtlry <createnew|notify>
+  lbltlry:
+    description: 向全服发送泰拉瑞亚邀请
+    usage: /lbltlry
