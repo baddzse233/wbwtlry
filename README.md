@@ -9,7 +9,7 @@
 
 玩不玩泰拉瑞亚：
 
-/wbwtlry <createnew|notify>
+/wbwtlry <createnew | notify>
 
 createnew:自动生成带有世界种子、大小、邪恶种类的消息
 
